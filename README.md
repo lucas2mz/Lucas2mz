@@ -9,7 +9,7 @@
 <h3 align="center"> 20 years old and currently studying Software Engineering🖥️</h3>
 <hr></hr>
  
-<h3 align="center"> 📫 How to reach me: </h3>
+<h2 align="center"> 📶 How to reach me: </h2>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<h3 align="center"> 🔧 Technologies and Tools </h3>
+<h2 align="center"> 📌 Technologies and Tools </h2>
 
 <div align="center">
 
@@ -47,11 +47,11 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=lucas2mz&show_icons=true&count_private=true&theme=cobalt&text_color=fafafa&hide_border=true&hide=issues,contribs&bg_color=00000000&rank_icon=github&include_all_commits=true)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=lucas2mz&show_icons=true&count_private=true&theme=vision-friendly-dark&text_color=fafafa&hide_border=true&hide=issues,contribs&bg_color=00000000&rank_icon=github&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2mz&hide=c,html,c%2B%2B&layout=compact&theme=cobalt&text_color=fafafa&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2mz&hide=c,html,c%2B%2B&layout=donut&theme=vision-friendly-dark&text_color=fafafa&hide_border=true&bg_color=00000000)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucas2mz&theme=cobalt&text_color=fafafa&hide_border=true&background=00000000)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucas2mz&theme=vision-friendly-dark&text_color=fafafa&hide_border=true&background=00000000)
 
 </div>
 
