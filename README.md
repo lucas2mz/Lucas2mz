@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center"> 20 years old and currently studying Software Engineering🖥️</h3>
+<h3 align="center"> 21 years old and currently studying Software Engineering🖥️</h3>
 <hr></hr>
  
 <h2 align="center"> 📶 How to reach me: </h2>
