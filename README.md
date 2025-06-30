@@ -9,7 +9,7 @@
 <h3 align="center"> 21 years old and currently studying Software Engineering🖥️</h3>
 <hr></hr>
  
-<h2 align="center"> 📶 How to reach me: </h2>
+<h2 align="center"> 🔗 Contact Details: </h2>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<h2 align="center"> 📌 Technologies and Tools </h2>
+<h2 align="center"> 📂 Toolbox </h2>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-<h2 align="center"> :bar_chart: GitHub stats </h2>
+<h2 align="center"> 📶 GitHub Stats </h2>
 
 <div align="center">
 
@@ -56,5 +56,5 @@
 </div>
 
 <p align="right">
-  ✍🏻<b> June 14th, 2025</b>
+  🗓️<b> Written on June 30, 2025</b>
 </p>
