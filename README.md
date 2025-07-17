@@ -9,9 +9,6 @@
 <h3 align="center"> 21 years old and currently studying Software Engineering🖥️</h3>
 <hr></hr>
 
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
- 
 <h2 align="center"> 🔗 Contact Details: </h2>
 
 <div align="center">
@@ -21,6 +18,9 @@
 &ensp;[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/lucas2mz/)
 
 </div>
+
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <h2 align="center"> 📂 Toolbox </h2>
 
