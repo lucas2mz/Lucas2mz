@@ -8,31 +8,26 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate GitHub Snake SVG
-        uses: Platane/snk@main
+        uses: Platane/snk@v3
         with:
           github_user_name: Lucas2mz
           outputs: |
             dist/github-snake.svg
-
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Commit and push SVG
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/
-          git commit -m "Add GitHub snake animation" || echo "No changes to commit"
-
-      - name: Push changes
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-          git push || echo "Nothing to push"
+          git diff --staged --quiet || git commit -m "Update GitHub snake animation"
+          git push
