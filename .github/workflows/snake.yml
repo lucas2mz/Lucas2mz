@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # todos los días a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: ${{ Lucas2mz }}
+          github_user_name: Lucas2mz
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
