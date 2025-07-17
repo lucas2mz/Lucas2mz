@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: ${{ lucas2mz }}
+          github_user_name: ${{ Lucas2mz }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
