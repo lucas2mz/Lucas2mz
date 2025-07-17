@@ -19,8 +19,7 @@
 
 </div>
 
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+
 
 <h2 align="center"> 📂 Toolbox </h2>
 
@@ -45,6 +44,9 @@
 <br />
 
 </div>
+
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <h2 align="center"> 📶 GitHub Stats </h2>
 
