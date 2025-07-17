@@ -8,6 +8,9 @@
 
 <h3 align="center"> 21 years old and currently studying Software Engineering🖥️</h3>
 <hr></hr>
+
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
  
 <h2 align="center"> 🔗 Contact Details: </h2>
 
