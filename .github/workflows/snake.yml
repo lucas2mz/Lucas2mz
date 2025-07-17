@@ -12,16 +12,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: Lucas2mz
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+          svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update GitHub contribution snake"
+          commit_message: "Generate GitHub contribution snake"
           file_pattern: dist/**
