@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center"> 21 years old and currently studying Software Engineering🖥️</h3>
+<h3 align="center"> 21 years old and currently studying Cybersecurity🛡️</h3>
 <hr></hr>
 
 <h2 align="center"> 🔗 Contact Details: </h2>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,py,flask,rabbitmq,postgres,gcp,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,py,bash,rabbitmq,postgres,gcp,linux" />
   </a>
 </p>
 
