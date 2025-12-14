@@ -7,7 +7,6 @@
 </div>
 
 <h3 align="center"> 21 years old and currently studying Cybersecurity🛡️</h3>
-<hr></hr>
 
 <h2 align="center"> 🔗 Contact Details: </h2>
 
@@ -41,7 +40,6 @@
 <details>
   <summary><strong>Estadísticas</strong></summary>
 
-  <br>
 
   <div align="center">
 
@@ -53,5 +51,5 @@
 </details>
 
 <p align="right">
-  🗓️<b> Updated on July 18, 2025</b>
+  🗓️<b> Updated on December 14, 2025</b>
 </p>
