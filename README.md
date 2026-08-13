@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center"> 21 years old and currently studying Cybersecurity🛡️</h3>
+<h3 align="center"> 22 years old and currently studying Cybersecurity🛡️</h3>
 
 <h2 align="center"> 🔗 Contact Details: </h2>
 
@@ -51,5 +51,5 @@
 </details>
 
 <p align="right">
-  🗓️<b> Updated on December 14, 2025</b>
+  🗓️<b> Updated on August 13, 2026</b>
 </p>
